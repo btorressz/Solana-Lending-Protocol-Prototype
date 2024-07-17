@@ -1,3 +1,5 @@
+//TODO: EDIT client.ts
+
 import * as anchor from '@coral-xyz/anchor';
 import { Program, AnchorProvider, web3, BN } from '@coral-xyz/anchor';
 import { PublicKey } from '@solana/web3.js';
