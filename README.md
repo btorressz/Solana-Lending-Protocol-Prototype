@@ -28,4 +28,4 @@ Anchor
 Solana
 
 Tools
-Solana Playground IDE: Used for initial development and testing of Solana programs. It provides an easy-to-use interface to write, deploy, and test Solana smart contracts without needing extensive local se
+Solana Playground IDE: Used for initial development and testing of Solana programs. It provides an easy-to-use interface to write, deploy, and test Solana smart contracts without needing extensive local set up
